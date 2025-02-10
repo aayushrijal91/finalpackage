@@ -1,0 +1,15 @@
+{
+    "name": "newfolddp/finalpackage",
+    "autoload": {
+        "psr-4": {
+            "Newfolddp\\Finalpackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Aayush Rijal",
+            "email": "aayush.rijal@dreamscapenetworks.com"
+        }
+    ],
+    "require": {}
+}
