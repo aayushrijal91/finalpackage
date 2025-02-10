@@ -1,5 +1,6 @@
 {
     "name": "newfolddp/finalpackage",
+    "version": "1.0.0",
     "autoload": {
         "psr-4": {
             "Newfolddp\\Finalpackage\\": "src/"
